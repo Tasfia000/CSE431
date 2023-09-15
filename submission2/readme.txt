@@ -1,16 +1,14 @@
 Link to unlisted YouTube video:
-https://youtu.be/RL1fQNKKnYs
+https://m.youtube.com/watch?si=0PNJtIrEhmdmTgVD&v=Qm6VsgHaM-w&feature=youtu.be
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1stKS_2fW6lrcKXg3WzAaoOZYyGj1c8UWwYPjg5orpYw/edit?usp=sharing
+https://docs.google.com/presentation/d/1oxjYzG88hxy_hDlE6PiWXsEY5GFhcsMNJEiRmJNzyuc/edit?usp=drivesdk
 
 Paper title:
-MNIST Handwritten Digit Classification Based on Convolutional Neural
-Network with Hyperparameter Optimization (2023)
-
+Detecting racism and xenophobia using deep learning models on Twitter data: CNN, LSTM and BERT
 
 Link to the paper:
-https://www.researchgate.net/profile/Shengjie-Zhai/publication/369265604_MNIST_Handwritten_Digit_Classification_Based_on_Convolutional_Neural_Network_with_Hyperparameter_Optimization/links/64127a5c66f8522c38aae328/MNIST-Handwritten-Digit-Classification-Based-on-Convolutional-Neural-Network-with-Hyperparameter-Optimization.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9044360/
 
 Group Number:
 29
